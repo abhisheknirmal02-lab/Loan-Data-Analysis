@@ -1,10 +1,10 @@
 # Loan-Data-Analysis
-# 📊 Bank Loan Report — Power BI Dashboard
+# 📊 USA Loan Analysis Report — Power BI Dashboard
 
 
 
 
-A comprehensive, multi-page **bank loan analytics dashboard** built in Power BI, designed to give financial analysts and stakeholders deep visibility into loan portfolio performance, borrower risk, and funding trends — all in one interactive report.
+A comprehensive, multi-page **usa loan analytics dashboard** built in Power BI, designed to give financial analysts and stakeholders deep visibility into loan portfolio performance, borrower risk, and funding trends — all in one interactive report.
 
 ---
 
@@ -68,7 +68,7 @@ Granular loan-level table with drill-down by Loan ID, purpose, home ownership, g
 ## 🚀 How to Use
 
 1. Clone this repository
-2. Open `bank_loan_report.pbix` in Power BI Desktop
+2. Open `usa_loan_analysis_report.pbix` in Power BI Desktop
 3. Connect to your data source or use the included CSV
 4. Refresh the dataset and explore all three report pages
 
