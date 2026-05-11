@@ -1,9 +1,8 @@
 # Loan-Data-Analysis
 # 📊 Bank Loan Report — Power BI Dashboard
 
-![Power BI](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/USA%20LOAN%20ANALYSIS.pbix)
-![SQL](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/US%20LOAN%20project%20sql%20query.docx)
-![Finance]()
+
+
 
 A comprehensive, multi-page **bank loan analytics dashboard** built in Power BI, designed to give financial analysts and stakeholders deep visibility into loan portfolio performance, borrower risk, and funding trends — all in one interactive report.
 
@@ -57,14 +56,11 @@ Granular loan-level table with drill-down by Loan ID, purpose, home ownership, g
 
 ## 📂 Files
 
-```
-├── bank_loan_report.pbix   # Power BI report file
-├── data/
-│   └── loan_data.csv       # Raw dataset
-├── sql/
-│   └── queries.sql         # SQL validation queries
-└── screenshots/            # Dashboard previews
-```
+[Power BI](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/USA%20LOAN%20ANALYSIS.pbix)
+[SQL Query ](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/US%20LOAN%20project%20sql%20query.docx)
+[DAX Codes](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/DAX%20code%20Loan%20Project.xlsx)
+[Dashboard Preview]()
+
 
 ---
 
