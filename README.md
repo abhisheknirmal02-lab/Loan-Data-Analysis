@@ -2,7 +2,7 @@
 # 📊 Bank Loan Report — Power BI Dashboard
 
 ![Power BI](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/USA%20LOAN%20ANALYSIS.pbix)
-![SQL]()
+![SQL](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/US%20LOAN%20project%20sql%20query.docx)
 ![Finance]()
 
 A comprehensive, multi-page **bank loan analytics dashboard** built in Power BI, designed to give financial analysts and stakeholders deep visibility into loan portfolio performance, borrower risk, and funding trends — all in one interactive report.
