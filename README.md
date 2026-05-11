@@ -61,12 +61,16 @@ Granular loan-level table with drill-down by Loan ID, purpose, home ownership, g
 [DAX Codes](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/DAX%20code%20Loan%20Project.xlsx)
 [Dashboard Preview](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/Summary.png)
 
-├── [Power BI](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/USA%20LOAN%20ANALYSIS.pbix) # Power BI report file
+├── [Power BI](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/USA%20LOAN%20ANALYSIS.pbix)
 ├── data/
-│ └── loan_data.csv # Raw dataset
+│ └──
 ├── sql/
-│ └── queries.sql # SQL validation queries
-└── screenshots/ # Dashboard previews
+│ └──[SQL Query ](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/US%20LOAN%20project%20sql%20query.docx)
+└── screenshots/
+│ └──[Dashboard Preview](https://github.com/abhisheknirmal02-lab/Loan-Data-Analysis/blob/main/Summary.png)
+  └──
+  └──
+
 
 ---
 
